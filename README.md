@@ -69,11 +69,4 @@ State University of Surabaya
 Email: dewiratih@unesa.ac.id
 ORCID: 0000-0002-0951-6236
 
-## Citation
 
-If you use this dataset or code in your research, please cite:
-
-Ratih, D., Susanti, & Ab Samad, N. H. (2026). Presidential Signalling 
-Intensity Index (PSII) and Machine Learning: A Novel Framework for 
-Forecasting US Market Volatility. Manuscript submitted to the 
-*International Journal of Forecasting*.
